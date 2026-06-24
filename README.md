@@ -22,7 +22,7 @@ A collection of viva questions and answers for:
 ## Author
 
 Kamlesh Kumar 
-IITM BS Data Science and Application
+IITM BS Data Science and Application // 
 ABES EC Computer Science and Engg..
 
 
