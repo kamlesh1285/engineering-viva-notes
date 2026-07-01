@@ -209,6 +209,31 @@ AWS EC2
  * git stash 
 35. Add Git Tag:
  * git push --tags [push tags] 
+36. Show Remote Repository:
+ * git remote -v 
+37. Show Commit Graph:
+ * git log --graph --oneline --all 
+38. Deploy a React App:
+ * npm install               [Install dependencies] 
+ * npm run dev               [Run Locally]
+ * npm run build.            [Build Production version]
+39. Deploy on Vercel:
+ * npm install -g vercel 
+ * vercel login              [Login]
+ * vercel                    [Deploy]
+ * vercel --prod             [Production deployment] 
+40. Deploy a Python/ FastAPI App:
+ * python -m venv venv.      [Create virtual environment] 
+ * source venv/bin/activate  [Activate (macOS/ Linux)]
+ * pip install -r requriment.txt       [Install dependencies]
+ * unicorn main.app --reload           [Run Locally]
+
+41. Deploy to AWS EC2 (Basic Flow):
+ * ssh -i key.pem ubuntu@your-ec2-public-ip      [SSH into your Server] 
+ * git clone https:/github.com/username/project.git    [clone your repository]
+ * cd project                                          [move into the project]
+ 
+
 
 
 
