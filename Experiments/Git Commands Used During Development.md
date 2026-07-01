@@ -232,7 +232,11 @@ AWS EC2
  * ssh -i key.pem ubuntu@your-ec2-public-ip      [SSH into your Server] 
  * git clone https:/github.com/username/project.git    [clone your repository]
  * cd project                                          [move into the project]
- 
+
+
+
+
+
 
 
 
